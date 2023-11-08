@@ -1,0 +1,7 @@
+C:\Users\ben.tung.nguyen\source\repos\CoreWebMVC\CoreWebMVC\obj\Release\net6.0\PubTmp\Out\CoreWebMVC.exe
+C:\Users\ben.tung.nguyen\source\repos\CoreWebMVC\CoreWebMVC\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ben.tung.nguyen\source\repos\CoreWebMVC\CoreWebMVC\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ben.tung.nguyen\source\repos\CoreWebMVC\CoreWebMVC\obj\Release\net6.0\PubTmp\Out\CoreWebMVC.dll
+C:\Users\ben.tung.nguyen\source\repos\CoreWebMVC\CoreWebMVC\obj\Release\net6.0\PubTmp\Out\CoreWebMVC.deps.json
+C:\Users\ben.tung.nguyen\source\repos\CoreWebMVC\CoreWebMVC\obj\Release\net6.0\PubTmp\Out\CoreWebMVC.runtimeconfig.json
+C:\Users\ben.tung.nguyen\source\repos\CoreWebMVC\CoreWebMVC\obj\Release\net6.0\PubTmp\Out\CoreWebMVC.pdb
