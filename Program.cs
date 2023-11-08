@@ -1,6 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container. AAAAAA
+// Add services to the container. AAAAAA 
+// SLA feature
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
